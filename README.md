@@ -6,7 +6,7 @@
 npm install
 ```
 
-Creer un chier `.env` à la racin du projet :
+Creer un fichier `.env` à la racine du projet :
 
 ```dotenv
 DB_HOST=localhost
